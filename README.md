@@ -14,7 +14,7 @@ Please share and send me any interesting emojis you make :D
 
 ## Description
 
-Emoji Script is a program that rapidly generates portraits.
+Emoji Script is a program (script) that rapidly generates portraits.
 The portraits are geometric and usually rounded.
 They look like avatars.
 They are cropped at the chest.
