@@ -2,7 +2,8 @@
 
 ## Installation
 
-Place this file inside the Photoshop "Scripts" folder:
+Place this file inside the Photoshop "Scripts" folder.
+
 Adobe Photoshop -> Presets -> Scripts
 This may require admin access & restarting Photoshop
 
