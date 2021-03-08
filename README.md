@@ -4,11 +4,11 @@
 
 Place this file inside the Photoshop "Scripts" folder.
 
-Adobe Photoshop -> Presets -> Scripts
+Adobe Photoshop -> Presets -> Scripts.
 This may require admin access & restarting Photoshop
 
-To run the file in Photoshop click:
-File -> Scripts -> Emoji Script
+To run the file in Photoshop click.
+File -> Scripts -> Emoji Script.
 
 Please share and send me any interesting emojis you make :D
 
