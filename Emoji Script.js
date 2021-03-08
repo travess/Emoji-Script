@@ -9,7 +9,7 @@
 
 
 Emoji Script
-v 4.1
+v 1.0
 Public Release
 
 Created by Travess Smalley
